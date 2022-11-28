@@ -1,4 +1,4 @@
-fetch("https://inventoryapim.azure-api.net/employee/api/Employee/GetEmployee",
+fetch("https://employeeapigiri.azure-api.net/webapi/api/Employee/GetEmployee",
 // {
 //    headers:{
 //       'key':'32f671a7b4bd4e64917abb35b2185495',
